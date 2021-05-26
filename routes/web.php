@@ -19,7 +19,6 @@ Route::get('/posts',"postController@index");
 
 Route::get('create/post',"postController@create");
 
-
 Route::post('/add/posts',"postController@add");
 
 

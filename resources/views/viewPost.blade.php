@@ -33,8 +33,7 @@
 
     </tbody>
 </table>
-
-
+<a class="btn btn-primary" href="{{url('create/post')}}" role="button">Add New Post</a>
 
 
 <!-- Option 1: Bootstrap Bundle with Popper -->
